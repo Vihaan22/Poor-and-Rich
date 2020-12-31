@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://static9.depositphotos.com/1597597/1126/v/600/depositphotos_11267654-stock-illustration-striped-background.jpg");
+    background-size: cover;
+}
+#mycanvas{
+    background-color: aliceblue;
+    border-width: 10px;
+    border-color: aqua;
+    border-style: ridge;
+}
